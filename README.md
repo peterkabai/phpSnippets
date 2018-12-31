@@ -1,2 +1,0 @@
-# phpSnippets
-Snippets in PHP
