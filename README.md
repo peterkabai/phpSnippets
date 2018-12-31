@@ -1,0 +1,2 @@
+# phpSnippets
+Snippets in PHP
